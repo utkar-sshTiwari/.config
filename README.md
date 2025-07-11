@@ -24,4 +24,4 @@ Hyprshot, Hyprlock, Nautilus, Pipewire (+Wireplumber), Wofi, Fastfetch, Neovim <
 # Setup Images
 <img src="img/1.png" alt="Setup-base" width="600"/>
 <img src="img/2.png" alt="Setup-wofi" width="600"/>
-<img src="img/3.png" alt="Setup-working" width="600"/>
+<img src="img/h.png" alt="Setup-working" width="600"/>
