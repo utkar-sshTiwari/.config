@@ -12,7 +12,7 @@ WM: Hyprland (Wayland) <br />
 Terminal: kitty <br />
 Bar: Waybar <br />
 \+ <br />
-Hyprshot, Hyprlock, Nautilus, Pipewire (+Wireplumber), Wofi, Fastfetch </br> 
+Hyprshot, Hyprlock, Nautilus, Pipewire (+Wireplumber), Wofi, Fastfetch, Neovim </br> 
 
 
 >[!Tip]
