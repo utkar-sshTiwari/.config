@@ -16,4 +16,4 @@ Hyprshot, Hyprlock, Nautilus, Pipewire (+Wireplumber), Wofi, Fastfetch </br>
 > Install Hack Nerd Fonts
 
 > [!Note]
-> These dotfiles are more sited towards **aesthetics**, and may not be optimal for performance (and minimalism) in certain cases
+> The keybindings can be found in /hypr/hyprland.conf
