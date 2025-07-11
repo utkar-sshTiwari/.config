@@ -1,7 +1,7 @@
 # .config
 
 > [!NOTE]
-> Works on my machine, but may or may not for you (best to use as reference)
+> These configs are tailored for my machine, might need tweaking for yours (Feel free to use them)
 
 My Personal Setup Dot files: <br />
 OS : Arch Linux x86_64 <br />
@@ -13,7 +13,7 @@ Hyprshot, Hyprlock, Nautilus, Pipewire, Wofi, Fastfetch </br>
 
 
 >[!Tip]
-> If copying entire config install Hack Nerd Fonts
+> Install Hack Nerd Fonts
 
 > [!Note]
-> I also have other packages/utils but they are not worth mentioning cause i mostly use them with very little customization or in vanilla form ccompletely
+> These dotfiles are more sited towards **aesthetics**, and may not be optimal for performance (and minimalism) in certain cases
