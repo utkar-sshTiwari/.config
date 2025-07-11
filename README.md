@@ -6,7 +6,6 @@
 > [!NOTE]
 > These configs are tailored for my machine, might need some tweaking for yours (Feel free to use them)
 
-My Personal Setup Dot files: <br />
 OS : Arch Linux x86_64 <br />
 WM: Hyprland (Wayland) <br />
 Terminal: kitty <br />
