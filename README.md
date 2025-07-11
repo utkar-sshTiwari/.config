@@ -24,4 +24,4 @@ Hyprshot, Hyprlock, Nautilus, Pipewire (+Wireplumber), Wofi, Fastfetch </br>
 # Setup Images
 ![Setup-base][https://github.com/utkar-sshTiwari/.config/blob/main/img/1.png]
 ![Setup-wofi][https://github.com/utkar-sshTiwari/.config/blob/main/img/2.png]
-![Setup-working][https://github.com/utkar-sshTiwari/.config/blob/main/img/3.png]
+![Setup-working][img/3.png]
