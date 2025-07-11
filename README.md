@@ -14,3 +14,6 @@ Hyprshot, Hyprlock, Nautilus, Pipewire, Wofi, Fastfetch </br>
 
 >[!Tip]
 > If copying entire config install Hack Nerd Fonts
+
+> [!Note]
+> I also have other packages/utils but they are not worth mentioning cause i mostly use them with very little customization or in vanilla form ccompletely
