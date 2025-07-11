@@ -22,6 +22,4 @@ Hyprshot, Hyprlock, Nautilus, Pipewire (+Wireplumber), Wofi, Fastfetch </br>
 > The keybindings can be found in /hypr/hyprland.conf
 
 # Setup Images
-![Setup-base][https://github.com/utkar-sshTiwari/.config/blob/main/img/1.png]
-![Setup-wofi][https://github.com/utkar-sshTiwari/.config/blob/main/img/2.png]
-![Setup-working][img/3.png]
+<img src="img/1.png" alt="Setup-base" width="600"/>
