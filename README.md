@@ -1,7 +1,7 @@
 # .config
 
 >[!WARNING]
-> The config may not be the most optimal
+> The config may not be the most optimal in some cases
 
 > [!NOTE]
 > These configs are tailored for my machine, might need some tweaking for yours (Feel free to use them)
