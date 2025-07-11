@@ -8,5 +8,5 @@ OS : Arch Linux x86_64 <br />
 WM: Hyprland (Wayland) <br />
 Terminal: kitty <br />
 Bar: Waybar <br />
-+ <br />
+\+ <br />
 Hyprshot, Hyprlock, Nautilus, Pipewire, Wofi, Fastfetch 
